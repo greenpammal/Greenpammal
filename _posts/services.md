@@ -3,8 +3,6 @@ layout: post
 title: Services
 ---
 
-## Services
-
 **Vermicompost Manure**
 
 <a href='https://photos.google.com/share/AF1QipNQD2K7cIvs_RuB2sYYkb0ugarMN2iZlwjQa5YSgm-Lq1Esv_U5LSaYhck_xTeNug?key=ZXR5Ty1pNlBwUngxUy1CTkVldllIdThESloxTlFB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/V_zzgvP2A5fVRDtCTGnCK48cCoDhgvdxEUQPwWw8FCmomz9o_ltTHlq_AS3n-mVS4DJ7Jo8cVWbsZprrLM1LPUOBgJLhovwJRmT58D2Y_OfJCsAtBH6hTJubtz6t-GNG3H6D1Q' /></a>
