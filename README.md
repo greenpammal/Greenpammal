@@ -1,134 +1,57 @@
-# Lanyon
+## About Us
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### Welcome to Exnora Green Pammal
 
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
+Exnora Green Pammal, a non-governmental Organization Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that India's children will someday experience the pride and joy of living in a nation that ranks among the world's cleanest. organization pioneering responsible solid waste management since 1994.
 
+Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that India's children will someday experience the pride and joy of living in a nation that ranks among the world's cleanest.
 
-## Contents
+### Goal :
+Our goal is for India's children to experience the pride and joy of growing up in a nation that ranks among the world's cleanest.
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+### Vision :
+India's municipal solid waste minimized by citizens preventing waste, and by exemplary decentralized recycling and composting services.
 
+### Mission :
+Our mission is to minimize municipal solid waste by advocating and demonstrating the 3 Rs: Reduction, Reuse and Recycling, and helping to bring localities into compliance with the Government of India's Municipal Solid Wastes (Management and Handling) Rules, 2000.
 
-## Usage
+### Exnora Green Pammal's story :
+In 1994, Ms. Mangalam Balasubramanian and a group of women (all residents of Pammal Municipality) formed a mahalir mandram (women's association) to address the challenge of waste management in Pammal. At that time, Pammal's residents commonly deposited their trash on the streets.
 
-Lanyon is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+## Services
 
+**Vermicompost Manure**
 
-## Options
+<a href='https://photos.google.com/share/AF1QipNQD2K7cIvs_RuB2sYYkb0ugarMN2iZlwjQa5YSgm-Lq1Esv_U5LSaYhck_xTeNug?key=ZXR5Ty1pNlBwUngxUy1CTkVldllIdThESloxTlFB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/V_zzgvP2A5fVRDtCTGnCK48cCoDhgvdxEUQPwWw8FCmomz9o_ltTHlq_AS3n-mVS4DJ7Jo8cVWbsZprrLM1LPUOBgJLhovwJRmT58D2Y_OfJCsAtBH6hTJubtz6t-GNG3H6D1Q' /></a>
 
-Lanyon includes some customizable options, typically applied via classes on the `<body>` element.
+**Plastic Shreds for Laying Road**
 
+<a href='https://photos.google.com/share/AF1QipPKYM7sLopJ8qxwqAIxsPp8CpR_yFp5ls1v751mFIOnaM9qIkCUDX2RWYN54qAbbQ?key=enBQOURQNzZjWkNoRnlJdjBUYUt6eVB3Q0t3Y1h3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/k4E-PEM_EOt71Q7TtCLUa-gRiUQ22ZcIRZUlERNeSL6EP70bvP_OR5E1-FuqY8TD0J_5CR2Wv0a4mHaclC8cEtL6E98mERe8nj8C8W5fki3ZzTjPEmpqug2S5O_1F4MuFiKJvg' /></a>
 
-### Sidebar menu
+**Briquetts for Industrial Broilers** 
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+<a href='https://photos.google.com/share/AF1QipOAiAlfHAmPIe-XADLWREGuvCY8ORmLC2WDyXHfOH2ISTr0fIeSg2mgZyiH0XKt8g?key=elpKQ3h3MDJrb3pHVUNja3dDRW5xb1RjZkZMeDB3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/4RzyI1aENT-q4lxvJkSMyc9Ig8yFxF3k2WPssU-Z2VyjK87kuLW5bbPuEaT4T5tJonfzBwDNHSGmKPE2NsS2IUQeON_C0X3JRUGATOEbnKhHJRY8P4QiiT4nh1IJ63vzrDkFGA' /></a>
 
-```
----
-layout: page
-title: About
----
-```
+**Biogas for Domestic Use** 
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
+<a href='https://photos.google.com/share/AF1QipPa4_zrH88aXXQNtTNwjDRPRfk3hxynTsezNX2ve3f8DUABfv5yhwLSiofrM8bhgw?key=Y0NxRDVYMGh3NnpZdTNSaF9aSzRpSUJNdDlIUWRn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/NHUiivNDTsnrIO5nYqln2lrsb_Fywnb_Z08HC8von44XJs6QvixYERZ36FLwSx9zTfG2TAViR3ut0FakoptDWkwokzfO1wuemhgsl2uOyh1llhgWYwKKAPFvySmmWogB8jzFrw' /></a>
 
+**Plastic Upcycling Product-1**
 
-### Themes
+<a href='https://photos.google.com/share/AF1QipPBXxyObQwofsfF2v23yzqCtsDj79rdwVlK4xM83sddN1-k4wz1GNzPKlK5BZpbYA?key=N0FNZTVBLXc0VTFUcTBHbm9vajJnbjlGYVFEa0l3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/jdoTD06bghqD0z8jI2ljKWaUZMamyLk2YQYOyr3Qmn6ZF3AxKMlAs0HL3Kgumxch3nBHdhv00OLoLs6xz1nGeCgiVFh4WgHQ6iBM8r0nZwYIfikSP4hi9em_cZKuYyXSj72zsA' /></a>
 
-Lanyon ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+**Plastic Upcycling Product-2** 
 
-![Lanyon with red theme](https://f.cloud.github.com/assets/98681/1825270/be065110-71b0-11e3-9ed8-9b8de753a4af.png)
-![Lanyon with red theme and open sidebar](https://f.cloud.github.com/assets/98681/1825269/be05ec20-71b0-11e3-91ea-a9138ef07186.png)
+<a href='https://photos.google.com/share/AF1QipPv3w8Bpld869LNVD9qVP6Qnnie6lI_ERirI2zfRjYiPY1kvc1ZS7C2zOOANZCUDw?key=VUswUDlNaDNMZGRfZngyWmFDOXFnckNIRDhCR3RR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/1yYsSgcmEXGuag4j2V2H8ew96rAFvE0_TRs2e9gb8djIdjGeQVHGv174R7g9oiKXzx7cv7vvVm16wsp0wrVu5wbzqN291kWgsalp_V1y0mj1y-L77wViSsn0jiFQrISGKzkqpQ' /></a>
 
-There are eight themes available at this time.
+## Contact Us
 
-![Available theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+### Ms. Mangalam Balasubramanian
+Exnora Green Pammal
+S.S. Dominics building
+No. 24, Pammal-Thiruneermalai Main Road
+VOC Nagar, Pammal, Chennai 600 075
 
-To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+e-mail: mangalam.b@gmail.com
 
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/lanyon/blob/master/public/css/lanyon.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-
-### Reverse layout
-
-![Lanyon with reverse layout](https://f.cloud.github.com/assets/98681/1825265/be03f2e4-71b0-11e3-89f1-360705524495.png)
-![Lanyon with reverse layout and open sidebar](https://f.cloud.github.com/assets/98681/1825268/be056174-71b0-11e3-88c8-5055bca4307f.png)
-
-Reverse the page orientation with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-### Sidebar overlay instead of push
-
-Make the sidebar overlap the viewport content with a single class:
-
-```html
-<body class="sidebar-overlay">
-  ...
-</body>
-```
-
-This will keep the content stationary and slide in the sidebar over the side content. It also adds a `box-shadow` based outline to the toggle for contrast against backgrounds, as well as a `box-shadow` on the sidebar for depth.
-
-It's also available for a reversed layout when you add both classes:
-
-```html
-<body class="layout-reverse sidebar-overlay">
-  ...
-</body>
-```
-
-### Sidebar open on page load
-
-Show an open sidebar on page load by modifying the `<input>` tag within the `sidebar.html` layout to add the `checked` boolean attribute:
-
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
-```
-
-Using Liquid you can also conditionally show the sidebar open on a per-page basis. For example, here's how you could have it open on the homepage only:
-
-```html
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
-```
-
-## Development
-
-Lanyon has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+Tel: 044 2248 5955
