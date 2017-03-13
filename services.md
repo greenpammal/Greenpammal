@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Product and Services
 ---
 
 **Vermicompost Manure**
