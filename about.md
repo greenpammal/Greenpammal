@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Welcome to Exnora Green Pammal
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Exnora Green Pammal, a non-governmental Organization Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that India's children will someday experience the pride and joy of living in a nation that ranks among the world's cleanest. organization pioneering responsible solid waste management since 1994.
 
-There are currently two themes built on Poole:
+Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that India's children will someday experience the pride and joy of living in a nation that ranks among the world's cleanest.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Goal :
+Our goal is for India's children to experience the pride and joy of growing up in a nation that ranks among the world's cleanest.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Vision :
+India's municipal solid waste minimized by citizens preventing waste, and by exemplary decentralized recycling and composting services.
 
-## Setup
+### Mission :
+Our mission is to minimize municipal solid waste by advocating and demonstrating the 3 Rs: Reduction, Reuse and Recycling, and helping to bring localities into compliance with the Government of India's Municipal Solid Wastes (Management and Handling) Rules, 2000.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Exnora Green Pammal's story :
+In 1994, Ms. Mangalam Balasubramanian and a group of women (all residents of Pammal Municipality) formed a mahalir mandram (women's association) to address the challenge of waste management in Pammal. At that time, Pammal's residents commonly deposited their trash on the streets.
