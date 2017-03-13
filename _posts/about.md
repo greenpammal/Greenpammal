@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Us
+title: About
 ---
 
 ### Welcome to Exnora Green Pammal
