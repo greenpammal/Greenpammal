@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+<p class=message>This is a test message</p>
 ### Welcome to Exnora Green Pammal
 
 Exnora Green Pammal, a non-governmental Organization Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that India's children will someday experience the pride and joy of living in a nation that ranks among the world's cleanest. organization pioneering responsible solid waste management since 1994.
