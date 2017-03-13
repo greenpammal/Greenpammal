@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Reach Us
 ---
 
 ## Reach out to us anytime
