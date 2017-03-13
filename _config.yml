@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Exnora Green Pammal
 tagline:             'For stree bin-free and litter-free India'
-description:         'Exnora Green Pammal works with residents, authorities, schools and the private sector to minimize waste and pollution so that Indias children will someday experience the pride and joy of living in a nation that ranks among the worlds cleanest..'
+description:         'Exnora Green Pammal works with the private sector to minimize waste and pollution..'
 url:                 https://greenpammal.github.io
 baseurl:             '/greenpammalin'
 paginate:            1
@@ -15,8 +15,7 @@ paginate:            1
 # About/contact
 author:
   name:              Mrs. Mangalam Balasubramanian
-  url:               https://twitter.com/mdo
+  url:               http://www.greenpammal.in
   email:             mangalam.b@gmail.com
 
-# Custom vars
-version:             1.0.0
+
