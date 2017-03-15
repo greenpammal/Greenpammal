@@ -3,7 +3,7 @@ layout: post
 title: Event - Green Temple
 ---
 
-## Mada Veedhi Clening Work
+## Mada Veedhi Cleaning Work
 
 <a href='https://photos.google.com/share/AF1QipO31APuwx-1cJ186RXM5Xp-xD693ctfi34YcGqAsFuVucL_gvqpXvDYPW8PcOWlnw?key=bV85VGVCMGg4M1ZoOThrcU1lM3N6cWxjeWh4a0N3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/nyo-bwsPCiJvZX2XkqU_e-_vlSqGSY-p6JLXPIaWh_82qIAomvnRIjd64Chi7wxxSXB5LjD_INtomckPA_w6qXvfSz5y5nGYzzW7yB9Qvk9q4zttiv2OFumVCW_G41a5tjLDCw' /></a>
 
