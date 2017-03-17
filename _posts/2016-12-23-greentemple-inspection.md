@@ -41,3 +41,16 @@ title: Event - GREEN TEMPLE - Inspection
 
 <a href='https://photos.google.com/share/AF1QipP5yQttBEwShQfdPtz2D6t_j50yeJtXn1yVCq9IpIzxeJiuRK88F4gEz8NHwu2QNQ?key=akcxRmdtTWlGZ1dFSnh4SWdkNUZWUUZiVVRZN3B3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/04-zFbWOlvk7_6lihJu5P4zn4aISLrJNhY2sA02Lg0Ea42y4y3-3ZZCuhcsUoRkNPmBNB6MLCwz3SjJTUleSbFq_bru4ogKuIBmNq6vg2a6oSrNHLkK9vio6wF_cCDE4PwaDEA' /></a>
 
+<a href='https://photos.google.com/share/AF1QipNjkOWNqu7eeut_D4EAocPXIjGUVLo8awUvUCfLCiKC1bnJvZIHW5j5Znsz2AuiaA?key=TnphdW1Pdzc5ZTBBNHdURnVITlcybm9sTXZlTGF3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/YRaKZDRIWLEV5Gx2dIvh-iOAEnaHfq2aSSD3MmwIILY91myGOfdQvzrJd07gcp2_5rq5p1SuG2kCSvQaMZ8oOFDngPtHBSLr2v8foRIroe9ENGeFCbMh-kXlRq8qKvOO_JkySg' /></a>
+
+<a href='https://photos.google.com/share/AF1QipPv5M89d85q-nDzQEZDzQe2KbpRlID4rxPECDjJ2svS7SN4NgOKZrgNbfVYqEJGgQ?key=SUVaOWg0azQ5VVBuNlRnejN5d2VNbDVURzB2UFZ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/86ZBvKnJyld5mBuuTOmXei8EeH_70ICWv5qgtbBUQ1_-4xm4afhZPaZeP_krKw9Geeap2XiZt9TRkPphcdtCTu5eoLjIISIaFmyUF6o56fAaub79yZrlsOUquX1vuom4ZSYJdw' /></a>
+
+<a href='https://photos.google.com/share/AF1QipNtzCMWXevIvhEAwxLQ30hrERM6nQOhGJe_2IdcpxTWm1KUvHmUZSLiy0SnY2REDQ?key=cE5uS3hrN0RPR2VHemNEVXJfQkpkOGpLMHQ2UGJ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/74SakwGJkpTbFP3jL8AjzdQ79ST_HJaYkIuCCOupA59IJqlnW08IriFLrPJtMuLEup4-uDwSz-9ZbyaXw3CjgfocbMhve9VY7di3lTU4Udyi5HqANcmk5ZF8CNNZJawP6Mbzgg' /></a>
+
+<a href='https://photos.google.com/share/AF1QipPEj0YtfvV822MVoZIWjPnjksrC8m8CvWaXFbYOPspciuNZWBdHYbQhGczGcZpNQQ?key=bkhPOG4zWTBjbERtRGxFWTdEMVVFaU5Rc3dlcTZB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/_UtiQumQLhs48SwcKS6TjxinHQi3nW-Fru7hbrXm2mhhuCdsaYpVbLroXr9GoN7xzg1vhBWBKMNcMDNRfJT-g1Z3FOvcETms_eepk7Vm7xiM8maKawmMr2maz8k7Zogah2hNTA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOR77XznJwAxM_oV3UUWdbzIXgdFGz6-lqbbzPC3vSOgMf28_rW-4kMhMwYrRDbdQ?key=M1J1WnlGbGllSU1yemFHdXpFcnJyN2xBMmFIdVhn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/MtAQxjav9duD7DOd3PgYiO2_pun3evEL6tfLA0E2BY0o-0fFIN2KZzk7JlcckZLOFJ-H3wAMLsKztN8D_-GKh_S7yccziFhlC0y5XDRoX3n2iOzS_5bjBCZWVDGPINy5wdVctw' /></a>
+
+<a href='https://photos.google.com/share/AF1QipO41RQ7LrfU9hqAxkRrm4LzUaHaiggZecbfWeeqbaoEPcRNWTBHfZ-SpNUTTvocsg?key=cnVyc0hwWEsxdGJYbnZfdTVrTG1RRl9DbFdwblln&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/f3DmGkwBol2adHjkwfVCGVB-Av9NtPIdqe9NuDNCc_pnBhk3kw0xuI1ymZn3v71HWMoRDZbLcfazGfQFx4ex_ztvYWoBH_zyBwQMB02IRSjEkwX5kLvaiR28fo8mYCAFGuY0Hw' /></a>
+
+
