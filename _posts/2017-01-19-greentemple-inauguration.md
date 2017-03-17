@@ -35,3 +35,34 @@ title: Event - GREEN TEMPLE - Inauguration
 
 <a href='https://photos.google.com/share/AF1QipOt2x359UQr_CPL0PS9VxqUoD73jOfa3KrI9V5WA_zbLIXALClooETf2BE6Ka4slg?key=R2JaSW9FX0thSUwzV0c4WXVucnk1VjNqaXdIclZR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/Si4wuQ6QUrB0BHrKo1tc41ACsQwAVAZ5UR9vvUmAllPdLHfTu4DPd409WcWfOkwKeZHknRALeMS145fGgcqIxGXGqLI3Ydf-MQkzHhpLRNKsEslQ6sotEG9YTQJ9B4l1fQqZrQ' /></a>
 
+<a href='https://photos.google.com/share/AF1QipMDZraT7CARtoMdmJPkuNoHQkdtLGg1fMAwaIUhPQBjQLQvTGU1dqBXzuyXl-4M8Q?key=cTRDc2lYalI1ek5oT1NXWVB3VWRLWElIWkJQTThn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ZaA6_bGba_28UdeKBPRZ4_sUYNdTLIE7Aet996L1LRPo3vvLOHH2tY9FF4qoFPDol0HYNyjwST18idoUhTjK54jpECSUuiXl8U8EgI0uOI0xuWDHs-Ha28erzonY0Mu3wTQe7Q' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOyUIkedwFHYoWPDywvhrV-mXzJGfYOb8OoJu0OI5x-THEVEB39AatJy2y4fHgJXw?key=a21TMkN1MWFNWDRPVkozTzVWZDR5TURaRzA3Z2F3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/rDXFBFNF3mHT2PWGIjsoZan5eQheCQz4Rfcp41k1VHqhtWp9MRhbhInrmAkHeZG4FHS2RzZOWFExP7rfe2C14VQSJeOYNUcYg-PWzKSzYvFTUrp-qIbX7y7-1rkPOrt0ozNCpw' /></a>
+
+<a href='https://photos.google.com/share/AF1QipPpQqkC6u3lQoympMtV2EU8OTCeAfXAWZGm-ppuf1uLlt3tNzo_zyjJ1_7r6ZKMtQ?key=emlXMUU1UzZ1R3BWVWhUNGRiU3JVNHpWcUdsVFNn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/7TLfzvvWD15OQlx6io0oqgbIUTsNYdp4hBnklAl2YSSFoskV9bCqIqUa-PttCu8bdKUqBYK24wd4JVrdvetZ1Y9IRRmK4f_3yYa5n3WQbxcXWnc4RWiXTSK9GXyywrWY6bMWlA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipN_hxN37927I1rzovqUD7O94iWUq_5OzPH0Mi88eEswTb_XiuZpgscHuF4haoZvdw?key=cEZwTTQ0LWV5QWlXSXZHWGdCd3M3bXhsZGo3cDRR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/mcFmGQPC7GCzpkW41MWyDJm0LtVr8g705hDO4GIdltGQbx_19bhQfFhOHMwHOiRPacmnvAc7gG5FIAN4VpQb49rTThm3NCjtgvT49FeYrKQ_95fAoIq8l2mxHn8Yw-EgRyAneA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipNjy0nwbrLZqoBCXppV4rWkUL6yLmhf6M1i1snWlcnbP_cnEhpSD0sziCM0pBBiSQ?key=VzMzNi1vVDJVT25JYzMwYmF0b09NaTZ4bWtQTTZn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/IdjriItITCzeddj4WDIDeklNA3_cX96aAkxwjhOY9VH3Pn-hGJkt7En7J-PL1KVtDvoZxYQhq4wKU6eBkWKzMvg4T85vYdflcfHU_UpL9f4sA1usWfPs6g2JTb1xA3POD_kSbA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipObcZjMhTQrbX02MGol_wHQrSqN1x3JFN4SeERtM76VgCQ3fgF2kxA5xECZCvZNkg?key=VEFWdTFZajh6TkNGamxCUU54SkYycjZaWWEzMHN3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/9QryroXjwSNBWbzxZYnJ44PH-EDDk4rUPkCT4O79uH7UMxyuUb1IiNlKam8QZRlRgVBM8_awH2YUCGbtATIXaUPZIvgQBkSPwLk_xo_g4srW8cibtzvkHIG4_6WJpiSXqJB8eg' /></a>
+
+<a href='https://photos.google.com/share/AF1QipNWP-R7FPkZcLL8bWCmJK4-ZOgchJXqfrKXA-bk5cSXGCXIwjUcYwtM794uTk2jTQ?key=M1REcGFBZWRxQXYxUEtsWm9HQXdhVDFqUlhOYWd3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/1Lg1SFnFGPi6bi-E5R2zzLi_0ElIUgsItOXLXow_EWOwka402KjpyBhbmG0v3YaccEZdTntCyfBZs17-Y35YwPgRTwISoddACYRZU8cclX8f4GlrpXCxU29j-UpqiFNhVGvogA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipPsu5w8CErTRJW-VMPrdvzOQSGtIVv5wfA1cwLvdSgFQU49I0rDI-dezxwXVWUyag?key=RE5SVzB6YVVkY2JISWJaS01BLTA0ZlNuakhCNV93&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/xToTmM-2VI75UJurJ6nYc3gNx6UN8ve9xxQ_C4Fj1GCN-np8YDLVJT1H1mUpqcEHxT5HDrc6rdw1r2bNOaBcY0LAfvV9_DzuTx5vEhsd0sC2Di1rKWI7BjizOKe8ZSUagHrd7A' /></a>
+
+<a href='https://photos.google.com/share/AF1QipNDbSJ5DioI4q0hn6R0foWfM3L-BOUJpaQ4W3f5ktpnF9_yo3CQEP48YmdlQ-la2w?key=MHM3ZXJ0MEItRmRRM2hJczVKMVZDYVMxTDIxS2tn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/XC3XqoGIVRLlBfXlA__h-M5fI_b07moySCIZCk0TJ-v7pFVjhsa-FkBSyZhMJFYXq527-gTz1TmCqCwOSGovShcEJqXvIwZKRCEYYdSq7ccvdZbawqeZ92RjMQJwGYlJ-kZhPQ' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOwVrS89EK99ar6wYVkViPWDApakrtLpCeyTVbj21fjOl5oK3JxtQnm8E-R5e6_6Q?key=NkdGN2ZvcHJyeUZCbS1MZ2pjVC05bEZoNmxYbkRB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/B0l2I9jaA5ql2bOTdgzuUq2Ny1PZFi2B1yDt76atKqha_Lj4dYu-86Afw5GTeUbcoCAgQJO7JIin_SdqJ77ckAmP4cEpZKnTtNx2-RqOczfQQs7oXAhTLsJnVfB6kPNMLTJShg' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOuEbs_ydFwmoNWjpG0kJX17RNZxbL96OucsE4PpvtIB5xLmGpaNg1NQFrr0lIm3A?key=N3BhaHA1WlBjYkxOUGtRd01PaGt3V2NaWUFZX3VR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/lHdsT-3pLeDuFCqpYVwan1vzUp4UFyNv9Zkfp64CX5P-hoTRBaX2OAajBllwLQEyajByEYfWPDW3yHTOf2yfWGHAnuoM2nnsLLkPYC9Oj8IAHXIytySprCEcGy8RUPKJiU3rdg' /></a>
+
+<a href='https://photos.google.com/share/AF1QipObG8tZ-no45-VUnv44cT_iiR_o8FIpePkQsfuIMmBtwO5hYUzez56yJ5GSbo0OGg?key=NW0wUFFkc2pIQUJCak1GdXZDQUoxbzVMSFROMk9R&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/42p-d2ORWcB4PS35xtrXMBAERuzIxwG905JPCzfhJhfChzTUPh2hFv0pHp4ikpe0c83U8VdW3_krYwtOnd66QsWTQjjbxSR9yhQUy1GVj9ICpd7QBrk1yL5WXvLP0aSeuWWsXA' /></a>
+
+<a href='https://photos.google.com/share/AF1QipN-vtuqhCk0BvLHTVvSIQP8ZZ_oxcu_On6qVtoayYWosh88rpptXG3su-bl3dkSsA?key=eVB4LVBxaXcyaGZaRVc0UWo4dDdfd3BieXFEZ1VR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/x2XrR_6KVJQ4adwG4OAlQg1K_pXDCc-81rVbWcd6JLmL6pBQv_6nJuV6o82Atr9JoCdmXuxiHDvGC8WxGGY9KrhAuV26s0rWZvmTiuGFiJUsZx_hYTvmdBDQMt3Ql3vmyaPtxQ' /></a>
+
+<a href='https://photos.google.com/share/AF1QipMecXmDqNvOsQLpkKoqQEcNPHFOldicS7JpAY_di8fSvxPZ3LQ9jDvlT9405Qw-IA?key=WGt3bUE0LWdBOU1jQVo5MVpwOHdyNUphT2tWZ3NB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/GdRoiCwTcDvlfZC9-nOaMqom_W52mghG-mXDN4Q2clZecSqrkpwZzyygfWq4pBow9Hll0NoubAIOqmY3dCwkPUkLmo1aMh5z9n6DNiaFCxVT8lSjWFwlX4D1Mmd-N_6vqKoP-w' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOvhKumP7YsdofmOeRdDLnGp9XgkmiwlTHNlqh44bgEvfJlL291fGviCHcLSbyjUQ?key=b2tBaFRnSU1QVFBrWE5qTmEwM042NWV4Ym1QQ2VB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ZRu3uirAc7Sk-7G10dFkcPxxHdMFwyzq5EatJviBAgH17QL8YF-DV-U5hV5afCmF0hw03Hk5A4fexPv8B-UwxQu2GsT9aeYwE6CYOoVeGutZ0Qoee-WrJPzStcSVd2kCZJQjSQ' /></a>
+
+<a href='https://photos.google.com/share/AF1QipODPngzdigvXMB7EgmsJ-RwYmf2s3EoMbTs8v7a8S78J-V8-Ut408-WEdJGKxVHLQ?key=eE15aTM2dEtLY0VfTXZkRHR2V211ZDFGTDBmdjlR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/9MVHKgVobeU9vv3HUCv4zzyKPSm2hvTahzZPWcw1C4saOrjMvNIEzURgsOToJFixQlTSdRvQWh-ElMJha1kmTcbjfywPrjMmf7taBgfwRFFEh67p6PhVxp6I-P7elYSd6wlkwA' /></a>
