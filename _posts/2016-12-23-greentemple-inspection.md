@@ -35,3 +35,9 @@ title: Event - GREEN TEMPLE - Inspection
 
 <a href='https://photos.google.com/share/AF1QipNOp8Ipyc9tcn5bVgDAKjXs8oQ2ouZ_jTmqgzepz3mpQjMEBFT0X4MYPQUhg9hdDg?key=UThGVHl3b2dGcGRyMUxjMk9tV3NOVGZUMzE0dm5n&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/1bDc48_u_3lEsUOvOz_BLqy7VifGjfOUV-pSgcPbAtxkule4rmV5iV6u0ey225bIE6_rQHD5DvkDHaKRu6De55RP9iHOkw0nJvMmLwTI_ocYGRp8wj9hdQuhze2h2GPfUmWC0Q' /></a>
 
+<a href='https://photos.google.com/share/AF1QipO6ExX27nvfNJJx7bqaQ1-WKN-EJ0rE_9OjxzumNVG4PnJixC84gjHkC4G9_ginRQ?key=Rl9BRTlsN2FKNFFhNHhremktdUpRaUE4WGdKX1d3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/XCcc9p7t7_v5JwRzeRrtmfbI8UCMcEWt4LNfvyW0M6DI3po0NssqrmqzfQdIJCDGKUCzhbM9vaWVjI5aZXCdwpya6PJ1g8x_iFHRPOp0lhixN_i7HaRA_ne_Obg1d5-BGLQsDw' /></a>
+
+<a href='https://photos.google.com/share/AF1QipOa0yf524U5GF7McHKcWiZStn0TNFuEAIpseSiXaZIXotn0OXuPYbYoSJPKbVo9kA?key=QWVDemtEQlZSd2RlSko3RkJESFlidGJBajJfY09n&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/HNl6Qo9CMc1dUOR0QdMtS6MVWnAs1eCJnp-QJq0sicN1Grtnk8qKHz0xHz3-BBVLf5LvfqFUd4tluWezDNOCehM4rSGTAg0wpBUBKQ5OZlPPh9p204M500qeYlXu9jlu0wPX7w' /></a>
+
+<a href='https://photos.google.com/share/AF1QipP5yQttBEwShQfdPtz2D6t_j50yeJtXn1yVCq9IpIzxeJiuRK88F4gEz8NHwu2QNQ?key=akcxRmdtTWlGZ1dFSnh4SWdkNUZWUUZiVVRZN3B3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/04-zFbWOlvk7_6lihJu5P4zn4aISLrJNhY2sA02Lg0Ea42y4y3-3ZZCuhcsUoRkNPmBNB6MLCwz3SjJTUleSbFq_bru4ogKuIBmNq6vg2a6oSrNHLkK9vio6wF_cCDE4PwaDEA' /></a>
+
