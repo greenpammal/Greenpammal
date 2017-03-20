@@ -19,4 +19,8 @@ images:
     title: Green Temple Community Meeting (Kalyan) - EVENT HELD ON 04-02-2017
  ---
   
-    
+ <ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
