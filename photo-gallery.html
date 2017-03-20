@@ -2,9 +2,12 @@
 layout: default
 title: Photo Gallery
 ---
-  
- <ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
+<ul class="photo-gallery">
+  {% for image in site.photo_gallery %}
+   <li>
+     <a href="{{ image.link }}">
+      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+     </a>
+  </li>
+ {% endfor %}
 </ul>
